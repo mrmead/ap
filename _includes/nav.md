@@ -10,7 +10,7 @@
 
 ***
 
-* [Current Unit]({{ "/periods/2" | relative_url }})
+* [Current Unit]({{ "/curriculum/1" | relative_url }})
 * [**Curriculum**]({{ "/curriculum" | relative_url }})
 * [Tools]({{ "/tools" | relative_url }})
 * [Syllabus]({{"/syllabus" | relative_url }})
